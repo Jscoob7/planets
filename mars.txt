@@ -1,2 +1,7 @@
 YadaYadaYada
+<<<<<<< HEAD
 Adding a branch to the tree
+=======
+BlahBlahBlah
+A New Line!!!
+>>>>>>> 690d4332a9baf58efdaf743d2a28ab8b06eddbc9
